@@ -1,4 +1,4 @@
-Library: D:\Arquivos (HD)\Projetos\+ Unity\AR-spatial-anchors-main\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
+Library: E:\Projetos\Unity_Projects\SVR_Tutorial_2025\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --platform=Android
 --minimum-os-version=
 --backend=burst-llvm-19
@@ -9,11 +9,11 @@ Library: D:\Arquivos (HD)\Projetos\+ Unity\AR-spatial-anchors-main\Temp\BurstOut
 --float-precision=Standard
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=D:\Arquivos (HD)\Projetos\+ Unity\AR-spatial-anchors-main\Temp\Burst
+--temp-folder=E:\Projetos\Unity_Projects\SVR_Tutorial_2025\Temp\Burst
 --force-disable-frame-info-registration
---key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.24f1/Editor/Data/PlaybackEngines/AndroidPlayer
---decode-folder=D:\Arquivos (HD)\Projetos\+ Unity\AR-spatial-anchors-main\Library\Burst
---output=D:\Arquivos (HD)\Projetos\+ Unity\AR-spatial-anchors-main\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
+--key-folder=E:/Arquivos/Unity Engine/Unity/Hub/Editor/2022.3.24f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=E:\Projetos\Unity_Projects\SVR_Tutorial_2025\Library\Burst
+--output=E:\Projetos\Unity_Projects\SVR_Tutorial_2025\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
